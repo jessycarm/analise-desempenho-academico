@@ -1,0 +1,18 @@
+1. Fatores que influenciam o desempenho escolar
+
+Base: Student Performance (Kaggle)
+Tipo: análise descritiva + correlações
+Pergunta central: quais variáveis mais explicam a variação das notas dos alunos?
+Entregáveis:
+
+3 KPIs (nota média, dispersão, variáveis-chave correlacionadas)
+
+Heatmap de correlação
+
+Insight: hábitos, horas de estudo, frequência, suporte familiar
+Por que funciona?
+Impacto direto: mostra como dados revelam determinantes de desempenho.
+
+Passo 1: Importar a base de dados do kaggle
+Passo 2: Carregar os dados para limpeza em python, usando jupyter
+Passo 3: Verificação 
